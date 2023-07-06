@@ -13,10 +13,6 @@
               "path": "Dapr/deneme.md"
             }
           ]
-     },
-      {
-        "text": "SMS Gönderimi",
-        "path": "SMS-Sending.md"
-      }
+     }
     ]
 }
