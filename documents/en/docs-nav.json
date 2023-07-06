@@ -5,12 +5,14 @@
         "path": "Tutorials/Todo/Overall.md"
       },
       {
-        "text": "Dapr Integration",
-        "path": "Dapr/Index.md"
-      },
-      {
-        "text": "SMS Sending",
-        "path": "SMS-Sending.md"
-      }
+          "text": "Dapr Integration",
+          "path": "Dapr/Index.md",
+          "items": [
+            {
+              "text": "Trial",
+              "path": "Dapr/deneme.md"
+            }
+          ]
+     }
     ]
 }
