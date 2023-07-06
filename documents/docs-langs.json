@@ -1,0 +1,14 @@
+{
+    "Languages":[
+      {
+        "DisplayName" : "English",
+        "Code" : "en",
+        "IsDefault": false
+      },
+      {
+        "DisplayName" : "Türkçe",
+        "Code" : "tr",
+        "IsDefault": true
+      }
+    ]
+  }

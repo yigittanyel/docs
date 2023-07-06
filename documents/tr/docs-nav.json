@@ -1,0 +1,16 @@
+{
+    "items": [
+      {
+        "text": "Hızlı Başlangıç",
+        "path": "Tutorials/Todo/Overall.md"
+      },
+      {
+        "text": "Dapr Entegrasyonu",
+        "path": "Dapr/Index.md"
+      },
+      {
+        "text": "SMS Gönderimi",
+        "path": "SMS-Sending.md"
+      }
+    ]
+}
