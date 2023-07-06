@@ -5,9 +5,15 @@
         "path": "Tutorials/Todo/Overall.md"
       },
       {
-        "text": "Dapr Entegrasyonu",
-        "path": "Dapr/Index.md"
-      },
+          "text": "Dapr Entegrasyonu",
+          "path": "Dapr/Index.md",
+          "items": [
+            {
+              "text": "Deneme",
+              "path": "Dapr/deneme.md"
+            }
+          ]
+     },
       {
         "text": "SMS Gönderimi",
         "path": "SMS-Sending.md"
