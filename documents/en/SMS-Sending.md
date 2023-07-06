@@ -1,4 +1,4 @@
-# SMS Sending V2
+# SMS Sending V3
 
 
 The ABP Framework provides an abstraction for sending SMS. Having such an abstraction has some benefits:
@@ -6,7 +6,7 @@ The ABP Framework provides an abstraction for sending SMS. Having such an abstra
 - You can easily change your SMS sender without changing your application code.
 - If you want to create reusable application modules, you don't need to make assumptions about how the SMS is sent.
 
-## Installation V2
+## Installation V3
 
 It is suggested to use the ABP CLI to install this package.
 
